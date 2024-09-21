@@ -1,4 +1,7 @@
 ## Hola soy Fernando Torres 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c1d00548-16f0-439f-a26e-2821d35ed241" alt="Card header"/>
+</div>
 
 <!--
 **FernandoTR/FernandoTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

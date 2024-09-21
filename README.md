@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c1d00548-16f0-439f-a26e-2821d35ed241" alt="Card header"/>
-</div>
-
 ## Hola soy Fernando Torres 👋
 
 <p align="center">

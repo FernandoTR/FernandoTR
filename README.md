@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ftorres009?theme=nord&font=ABeeZee&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ftorres009?theme=forest&font=ABeeZee&ext=heatmap)
 <!--
 **FernandoTR/FernandoTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

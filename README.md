@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-  Hi, I'm Fernando 👋
+  Hi, I'm Fernando 
 </h1>
 
 <h3 align="center">
@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  🌐 <strong>Portfolio:</strong> <a href="https://fernandotr.github.io/FernandoTR-Portfolio/" target="_blank">fernandotr.github.io/FernandoTR-Portfolio</a>
+  🌐👉 <strong>Portfolio:</strong> <a href="https://fernandotr.github.io/FernandoTR-Portfolio/" target="_blank">fernandotr.github.io/FernandoTR-Portfolio</a>
 </p>
 
 

@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack .NET Developer | Software Engineer 
+  Full Stack .NET Developer | Software Developer 
 </h3>
 
 <p align="center">

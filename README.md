@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  🌐👉 <strong>Portfolio:</strong> <a href="[byfernandotorres.online](http://byfernandotorres.online/)" target="_blank">byfernandotorres.online</a>
+  🌐👉 <strong>Portfolio:</strong> <a href="http://byfernandotorres.online/" target="_blank">byfernandotorres.online</a>
 </p>
 
 
